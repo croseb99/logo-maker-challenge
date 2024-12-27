@@ -51,3 +51,5 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+
+link to screencastify recording => https://drive.google.com/file/d/1dgv4v70p-6B4pB_cGEOFEreXwUlB-SWd/view?usp=sharing
